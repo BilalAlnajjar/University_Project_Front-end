@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    bottom: 0;
+    background: #F0F0F0;
+}
+
+img{
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.backgroundHero{
+    background-image: url("../../Images/csm_Mechatroniker_572507fad5.png");
+    min-height: 100vh;
+}

@@ -1,0 +1,12 @@
+img{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+.title{
+    font-family: 'Poppins', sans-serif;
+}
+
+.body{
+    font-family: sans-serif;
+}
